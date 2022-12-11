@@ -1,0 +1,28 @@
+https://www.youtube.com/watch?v=eDcxcTSQJaA&ab_channel=DipeshMalvia
+https://github.com/refinedev/refine
+https://github.com/pankod/superplate
+https://refine.dev/docs/api-reference/core/
+https://api.fake-rest.refine.dev/users
+https://ant.design/
+https://refine.dev/
+
+== Examples ==
+https://refine.dev/docs/examples/
+
+== Custom Sider ==
+https://refine.dev/docs/examples/customization/customSider/
+https://github.com/refinedev/refine/tree/master/examples/customization/customSider
+
+
+== Custom Login Page ==
+https://refine.dev/docs/examples/customization/customLogin/
+https://github.com/refinedev/refine/tree/master/examples/customization/customLogin
+
+== Custom Footer ==
+https://refine.dev/docs/examples/customization/customFooter/
+
+== Custom Pages ==
+https://refine.dev/docs/examples/customPages/
+https://github.com/refinedev/refine/tree/master/examples/customPages
+
+npx superplate-cli -o refine-antd refine-admin-panel
